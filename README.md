@@ -1,6 +1,8 @@
 # LinkIt Smart 7688 Wi-Fi multi-role
 
-This is the the doc for enabling both Wi-Fi access point and station mode simultaneously on LinkIt Smart 7688.
+This is the the doc for enabling both Wi-Fi access point and station mode simultaneously on LinkIt Smart 7688.<BR>
+It works on firmware v0.9.2 or v0.9.3.<BR>
+It <B>NOT</B> works on firmware v0.9.4
 
 ## Usage
 
