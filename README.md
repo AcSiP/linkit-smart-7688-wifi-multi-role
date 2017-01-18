@@ -2,7 +2,10 @@
 
 This is the the doc for enabling both Wi-Fi access point and station mode simultaneously on LinkIt Smart 7688.<BR>
 It works on firmware v0.9.2 or v0.9.3.<BR>
-It <B>NOT</B> works on firmware v0.9.4
+It <B>NOT</B> works on firmware v0.9.4<BR>
+
+For detials, refer to https://docs.labs.mediatek.com/resource/linkit-smart-7688/zh_tw/downloads
+
 
 ## Usage
 
